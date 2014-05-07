@@ -1,0 +1,1 @@
+cxfreeze wordtool.py --target-dir=dist -c --include-modules='lxml._elementpath,lxml.etree,inspect,gzip'
